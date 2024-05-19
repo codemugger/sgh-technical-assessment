@@ -84,6 +84,12 @@ Along the way in this notebook, we will also uncover some additional insights wh
 
 **Predictive Performance (On test dataset) conclusion:**
 
+Given the imbalanced nature of the dataset, with only 9+% positive diabetic cases, special attention should be paid to AUC and Recall, as they provide better insight into the model's ability to correctly identify positive cases.
+
+We will optimise the AUC, because AUC provides a measure of the model's ability to distinguish between classes. A higher AUC indicates that the model is better at predicting positive cases (true positives) and avoiding false positives. This is particularly important for imbalanced datasets where the goal is to improve the true positive rate without significantly increasing the false positive rate.
+
+Another considerable metric is Recall (also known as sensitivity or true positive rate) measures the proportion of actual positive cases that are correctly identified by the model. For imbalanced datasets, Recall is crucial because it ensures that most of the positive cases are identified, which is important for conditions like diabetes where missing a positive case can have severe consequences.
+
 | Model                     | Accuracy | AUC      | Recall   | Precision | F1 Score |
 | ------------------------- | -------- | -------- | -------- | --------- | -------- |
 | Lasso Logistic Regression | 0.904855 | 0.946421 | 0.829787 | 0.490566  | 0.616601 |
