@@ -27,7 +27,8 @@ sgh-technical-assessment/
 └── Understanding of RAW Data.html
 ```
 
-> [!IMPORTANT] > **For ML modelling results, go to `modelling.ipynb` and for EDA, go to `eda-diabetes.ipynb`**
+> [!IMPORTANT]
+> For ML modelling results, go to `modelling.ipynb` and for EDA, go to `eda-diabetes.ipynb`
 
 ## **Project Implementation Workflow**
 
