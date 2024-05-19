@@ -123,3 +123,31 @@ Consolidating the General findings from the lasso logistic regression model and 
 7. Having a lower albumin level also increases your risk of diabetes
 
 **Conclusively, BOTH Logistic Regression (With Lasso Penalty) and RANDOM FOREST is a tie in terms of predictive performance since their decision making process is relatively different due to the linear (log reg) vs. non-linear (random forest) nature of the models.**
+
+## Technologies
+
+This project was developed with the following technologies, libraries, and frameworks:
+
+- **Python**: Primary programming language used.
+- **Pandas**: Data manipulation and analysis.
+- **NumPy**: Numerical computing with Python.
+- **Scikit-learn**: Machine learning library for Python.
+- **PyCaret**: Low-code alternative Machine Library for Python.
+- **SHAP**: Machine Learning explainability library.
+- **Matplotlib** & **Seaborn**: Visualisation libraries.
+- **ydata-profiling**: Generates a complete and exhaustive report to uncover insights on a dataset.
+- **Jupyter Notebook**: Interactive computing and development environment.
+- **SQLAlchemy**: SQL toolkit and Object-Relational Mapping (ORM) library for Python.
+- **Git**: Version control system.
+
+### **Credits**
+
+A special thanks to SGH for creating and enabling me to take this technical assessment, I thoroughly enjoyed the process, thank you!
+
+### **My contacts**
+
+- **Name**: Phua Anson
+- **Contact Number**: 9223 5676
+- **Affiliation**: Graduating student from the National University of Singapore (NUS)
+- **Major**: Data Science and Analytics (Bachelor of Science with Second-Class Honours)
+- **Minor**: Geographical Information Systems (GIS)
