@@ -135,6 +135,7 @@ This project was developed with the following technologies, libraries, and frame
 - **PyCaret**: Low-code alternative Machine Library for Python.
 - **SHAP**: Machine Learning explainability library.
 - **Matplotlib** & **Seaborn**: Visualisation libraries.
+- **Plotly**: Alternative Interactive Visualisation library.
 - **ydata-profiling**: Generates a complete and exhaustive report to uncover insights on a dataset.
 - **Jupyter Notebook**: Interactive computing and development environment.
 - **SQLAlchemy**: SQL toolkit and Object-Relational Mapping (ORM) library for Python.
