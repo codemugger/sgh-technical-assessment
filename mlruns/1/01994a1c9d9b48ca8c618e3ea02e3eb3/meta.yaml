@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/anson/Google%20Drive/EDUCATION/sgh-technical-assessment/mlruns/1/01994a1c9d9b48ca8c618e3ea02e3eb3/artifacts
+end_time: 1716108374962
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 01994a1c9d9b48ca8c618e3ea02e3eb3
+run_name: Logistic Regression
+run_uuid: 01994a1c9d9b48ca8c618e3ea02e3eb3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716108374424
+status: 3
+tags: []
+user_id: anson

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/anson/Google%20Drive/EDUCATION/sgh-technical-assessment/mlruns/1/1dd82314330248e6823c90199b8ef847/artifacts
+end_time: 1716109053493
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 1dd82314330248e6823c90199b8ef847
+run_name: Random Forest Classifier
+run_uuid: 1dd82314330248e6823c90199b8ef847
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716109053259
+status: 3
+tags: []
+user_id: anson

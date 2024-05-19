@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/anson/Google%20Drive/EDUCATION/sgh-technical-assessment/mlruns/1/7a780848e2384ba0ad7db6875b0d0905/artifacts
+end_time: 1716107619143
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 7a780848e2384ba0ad7db6875b0d0905
+run_name: Decision Tree Classifier
+run_uuid: 7a780848e2384ba0ad7db6875b0d0905
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716107618607
+status: 3
+tags: []
+user_id: anson
