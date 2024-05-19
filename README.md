@@ -128,7 +128,7 @@ Consolidating the General findings from the lasso logistic regression model and 
 
 7. Having a lower albumin level also increases your risk of diabetes
 
-**Conclusively, BOTH Logistic Regression (With Lasso Penalty) and RANDOM FOREST is a tie in terms of predictive performance since their decision making process is relatively different due to the linear (log reg) vs. non-linear (random forest) nature of the models.**
+**Conclusively, BOTH Logistic Regression (With Lasso Penalty) and RANDOM FOREST is a tie in terms of explanatory performance since their decision making process is relatively different due to the linear (log reg) vs. non-linear (random forest) nature of the models. So, models tend to prioritise and explain features differently. It was also found that Decision Tree may not be the best to explain as it is too simple, putting way too heavy importance on the `tx` covariate based on the SHAP plots**
 
 ## Technologies
 
